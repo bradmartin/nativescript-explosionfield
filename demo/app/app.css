@@ -1,0 +1,30 @@
+﻿.message {
+  color: #333;
+  font-size: 20;
+  horizontal-align: center;
+  padding:20;
+}
+
+image {
+    margin: 10;
+    horizontal-align: center;
+}
+.title {
+    color: #333;
+    font-size: 34;
+    padding:10;
+    horizontal-align: center;
+}
+
+.redBtn {
+    background-color: #ff4000;
+    color: #fff;
+}
+.blueBtn {
+    background-color: #3489db;
+    color: #fff;
+}
+.yellowBtn {
+    background-color: #fff000;
+    color: #333;
+}

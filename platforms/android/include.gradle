@@ -1,0 +1,12 @@
+//default elements
+android {
+    productFlavors {
+        "nativescriptexplosionfield" {
+            dimension "nativescriptexplosionfield"
+        }
+    }
+}
+
+dependencies {
+	 compile "tyrantgit:explosionfield:1.0.1"
+}
