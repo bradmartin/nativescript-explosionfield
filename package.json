@@ -1,7 +1,7 @@
 {
 	"name": "nativescript-explosionfield",
 	"version": "1.0.0",
-	"description": "Your awesome NativeScript plugin.",
+	"description": ":bomb: NativeScript plugin to create an exploding particle animation :bomb:",
 	"main": "explosion.js",
 	"nativescript": {
 		"platforms": {

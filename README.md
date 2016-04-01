@@ -10,7 +10,7 @@ NativeScript plugin to create an exploding dust effect animation for Android {N}
 
 ## Sample
 
-![GifExample](screens/explode.gif)
+![GifExample](./screens/explode.gif)
 
 **This .gif does not do the animation justice, please watch the YouTube video
 to see how smooth it really is. [Watch here on YouTube](https://youtu.be/pjFZgDMvioY)**
