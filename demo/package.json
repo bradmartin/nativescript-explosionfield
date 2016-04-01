@@ -10,6 +10,7 @@
 	},
 	"dependencies": {
 		"nativescript-explosionfield": "file:..",
+        "nativescript-gif": "1.0.0",
 		"tns-core-modules": "^1.7.0"
 	},
 	"devDependencies": {
