@@ -22,15 +22,21 @@
 		"NativeScript",
 		"JavaScript",
 		"Android",
-        "Animation",
-        "Explosion Field",
-        "bradmartin",
-        "thorum"
+		"Animation",
+		"Explosion Field",
+		"bradmartin",
+		"thorum"
 	],
 	"author": {
 		"name": "Brad Martin",
 		"email": "bradwaynemartin@gmail.com"
 	},
+	"contributors": [
+		{
+			"name": "Josh Sommer",
+			"email": "JoshDSommer@gmail.com"
+		}
+	],
 	"bugs": {
 		"url": "https://github.com/bradmartin/nativescript-explosionfield/issues"
 	},
