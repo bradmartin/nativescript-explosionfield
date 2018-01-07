@@ -1,5 +1,8 @@
 [![npm](https://img.shields.io/npm/v/nativescript-explosionfield.svg)](https://www.npmjs.com/package/nativescript-explosionfield)
 [![npm](https://img.shields.io/npm/dt/nativescript-explosionfield.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-explosionfield)
+[![GitHub stars](https://img.shields.io/github/stars/bradmartin/nativescript-explosionfield.svg)](https://github.com/bradmartin/nativescript-explosionfield/stargazers)
+[![PayPal Donate](https://img.shields.io/badge/Donate-PayPal-ff4081.svg)](https://www.paypal.me/bradwayne88)
+
 
 # NativeScript-ExplosionField
 NativeScript plugin to create an exploding dust effect animation for Android {N} apps.
