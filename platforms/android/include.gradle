@@ -1,10 +1,4 @@
-//default elements
 android {
-    productFlavors {
-        "nativescriptexplosionfield" {
-            dimension "nativescriptexplosionfield"
-        }
-    }
 }
 
 dependencies {
