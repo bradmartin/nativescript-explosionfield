@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-explosionfield",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": ":bomb: NativeScript plugin to create an exploding particle animation :bomb:",
 	"main": "explosion",
 	"nativescript": {
