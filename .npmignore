@@ -1,5 +1,6 @@
 demo/
 screens/
+node_modules/
 *.png
 *.log
 tsconfig.json
