@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-explosionfield",
-	"version": "1.0.3",
+	"version": "1.1.0",
 	"description": ":bomb: NativeScript plugin to create an exploding particle animation :bomb:",
 	"main": "explosion",
 	"nativescript": {
@@ -25,7 +25,7 @@
 		"Animation",
 		"Explosion Field",
 		"bradmartin",
-		"thorum"
+		"nStudio"
 	],
 	"author": {
 		"name": "Brad Martin",
@@ -35,6 +35,10 @@
 		{
 			"name": "Josh Sommer",
 			"email": "JoshDSommer@gmail.com"
+		},
+		{
+			"name": "Stanimira Vlaeva",
+			"url": "https://github.com/sis0k0"
 		}
 	],
 	"bugs": {

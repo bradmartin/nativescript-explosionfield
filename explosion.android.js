@@ -6,7 +6,7 @@
  * Open Source Lib : https://github.com/tyrantgit/ExplosionField
  *************************************************************************************/
 
-var app = require("application");
+var app = require("tns-core-modules/application");
 
 function explode (view) {
     if (!view) {
