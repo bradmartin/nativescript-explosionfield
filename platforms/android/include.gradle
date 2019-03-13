@@ -1,6 +1,0 @@
-android {
-}
-
-dependencies {
-	 compile "tyrantgit:explosionfield:1.0.1"
-}

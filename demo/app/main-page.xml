@@ -1,27 +1,27 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd"
-      xmlns:Gif="nativescript-gif" loaded="pageLoaded">
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 
+  xmlns:Gif="nativescript-gif" loaded="pageLoaded">
   <Page.actionBar>
     <ActionBar title="Explosion Field" color="#fff" backgroundColor="#2196F3" />
   </Page.actionBar>
   <ScrollView>
-  <StackLayout>
-   
-    <label tap="goBoom" text="This plugin will make things go boom!" textWrap="true" class="message" />
- 
-        <Image tap="goBoom" src="~/pics/nativescript.png" stretch="none"/>
+    <StackLayout>
 
-     <Button tap="goBoom" text="Boom!" class="redBtn" row="0" col="0" />
-     <Button tap="goBoom" text="Kaboom!" class="yellowBtn" row="1" col="0" />
-     
-   <GridLayout rows="120, 120" columns="*, *">
+      <label tap="goBoom" text="This plugin will make things go boom!" textWrap="true" class="message" />
+
+      <Image tap="goBoom" src="~/pics/nativescript.png" stretch="none"/>
+
+      <Button tap="goBoom" text="Boom!" class="redBtn" row="0" col="0" />
+      <Button tap="goBoom" text="Kaboom!" class="yellowBtn" row="1" col="0" />
+
+      <GridLayout rows="120, 120" columns="*, *">
         <Gif:Gif tap="goBoom" src="~/pics/batman_boom.gif" row="0" col="0" />
         <Gif:Gif tap="goBoom" src="~/pics/tyrion.gif" row="0" col="1" />
         <Gif:Gif tap="goBoom" src="~/pics/jonSnowPhone.gif" row="1" col="0" />
         <Gif:Gif tap="goBoom" src="~/pics/darthRide.gif" row="1" col="1" />
-  </GridLayout>
-  
-  
-  
-  </StackLayout>
- </ScrollView>
+      </GridLayout>
+
+
+
+    </StackLayout>
+  </ScrollView>
 </Page>  

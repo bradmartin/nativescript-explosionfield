@@ -1,0 +1,6 @@
+android {
+}
+
+dependencies {
+	implementation "tyrantgit:explosionfield:1.0.1"
+}
